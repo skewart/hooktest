@@ -5,3 +5,5 @@ And here is more text.  This is a nice file with all kinds of things in it.
 How many files like this exist in the world?
 
 Once upon a time there was a program that wanted to find out.
+
+But the program wasn't entirely sure how find all the files. It knew about the files in its own directory, but it was pretty sure there were more.
