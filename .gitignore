@@ -1,3 +1,5 @@
+*.zip
+
 *.gem
 *.rbc
 /.config

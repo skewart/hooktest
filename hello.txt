@@ -7,3 +7,7 @@ How many files like this exist in the world?
 Once upon a time there was a program that wanted to find out.
 
 But the program wasn't entirely sure how find all the files. It knew about the files in its own directory, but it was pretty sure there were more.
+
+It didn't let that bother it. It went around to all the files in its local directory and asked them how many lines they had.
+
+All of them were executables.  They were very serious.  They didn't look happy when the little programmed approached them and asked them a question.
