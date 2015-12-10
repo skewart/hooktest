@@ -3,3 +3,5 @@ Hey yet again, this is just some text.
 And here is more text.  This is a nice file with all kinds of things in it.
 
 How many files like this exist in the world?
+
+Once upon a time there was a program that wanted to find out.
