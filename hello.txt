@@ -10,4 +10,6 @@ But the program wasn't entirely sure how find all the files. It knew about the f
 
 It didn't let that bother it. It went around to all the files in its local directory and asked them how many lines they had.
 
-All of them were executables.  They were very serious.  They didn't look happy when the little programmed approached them and asked them a question.
+All of them were executables.  They were very serious.  They didn't look happy when the little program approached them and asked them a question.
+
+The little program wasn't dettered. 
