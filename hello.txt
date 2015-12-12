@@ -14,4 +14,6 @@ All of them were executables.  They were very serious.  They didn't look happy w
 
 The little program wasn't dettered.
 
-The little program ventured out into its parent directory. 
+The little program ventured out into its parent directory.
+
+It was surprisingly empty.
