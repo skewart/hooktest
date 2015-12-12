@@ -12,4 +12,6 @@ It didn't let that bother it. It went around to all the files in its local direc
 
 All of them were executables.  They were very serious.  They didn't look happy when the little program approached them and asked them a question.
 
-The little program wasn't dettered. 
+The little program wasn't dettered.
+
+The little program ventured out into its parent directory. 

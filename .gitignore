@@ -1,4 +1,6 @@
 *.zip
+*.dmg
+*.exe
 
 *.gem
 *.rbc
